@@ -1,0 +1,13 @@
+{
+    "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+    "name": "manos-skills",
+    "displayName": "Manos' Skills",
+    "description": "My personal collection of skills",
+    "version": "1.0.0",
+    "author": {
+        "name": "Nick Manos",
+        "email": "nick@manos.tech",
+        "url": "https://github.com/npmanos"
+    },
+    "repository": "https://github.com/npmanos/skills"
+}
