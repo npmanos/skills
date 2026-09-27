@@ -1,0 +1,13 @@
+{
+    "$schema": "https://raw.githubusercontent.com/npmanos/agy-schemas/refs/heads/main/plugin.json",
+    "name": "manos-skills",
+    "displayName": "Manos' Skills",
+    "author": {
+        "name": "Nick Manos",
+        "email": "nick@manos.tech",
+        "url": "https://github.com/npmanos"
+    },
+    "repository": {
+        "url": "https://github.com/npmanos/skills"
+    }
+}
